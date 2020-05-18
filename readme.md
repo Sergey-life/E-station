@@ -9,9 +9,9 @@
 
 Проверки(Postman):
 
-1. Create new station(POST): http://localhost:8088/api/stations/
-2. Update station(PUT): http://localhost:8088/api/stations/{id}   
-3. Delete station(DELETE): http://localhost:8088/api/stations/{id}
-4. displays stations in the specified city that are currently open(GET): http://localhost:8088/api/stations
+1. displays stations in the specified city that are currently open(GET): http://localhost:8088/api/stations
+2. Create new station(POST): http://localhost:8088/api/stations/
+3. Update station(PUT): http://localhost:8088/api/stations/{id}   
+4. Delete station(DELETE): http://localhost:8088/api/stations/{id}
 
 Cтраница ТЗ: https://macpaw.com/careers/back-end-intern
