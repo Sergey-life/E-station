@@ -10,6 +10,7 @@
 Проверки(Postman):
 
 1. displays stations in the specified city that are currently open(GET): http://localhost:8088/api/stations
+2. Show station(GET): http://localhost:8088/api/stations/{id}
 2. Create new station(POST): http://localhost:8088/api/stations/
 3. Update station(PUT): http://localhost:8088/api/stations/{id}   
 4. Delete station(DELETE): http://localhost:8088/api/stations/{id}
