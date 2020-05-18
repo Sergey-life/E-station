@@ -1,5 +1,7 @@
 <?php
 
-Route::resource('stations', 'StationController', [
-    'except' => ['create', 'edit']
-]);
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+
+
+Route::apiResource('stations', 'API\StationController');

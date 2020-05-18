@@ -1,9 +1,10 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\API;
 
 use App\Station;
 use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
 
 class StationController extends Controller
 {
